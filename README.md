@@ -64,3 +64,6 @@ Properties
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/d1ffd58b-bd28-4d74-bb66-6db27bf4df75" />
 
+Access properties
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/d9e69590-bd86-4137-8180-2b1ddc7a046c" />
