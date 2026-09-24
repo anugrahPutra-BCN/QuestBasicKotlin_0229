@@ -12,11 +12,11 @@ TIPE DATA DASAR
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/b6f61235-627f-4397-a291-cedc341baebd" />
 
-List
+COLLECTION List
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/fd1eb3f9-09b2-441b-8868-333344cecde4" />
 
-Set
+COLLECTION Set
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/8313549e-0800-46f1-8a4a-2786556105cb" />
 
@@ -24,10 +24,14 @@ Map
 
 <img width="638" height="359" alt="image" src="https://github.com/user-attachments/assets/a0d0a602-7216-4aa0-8b1d-0b26e065acbb" />
 
-if
+Conditional expressions if
 
 <img width="640" height="347" alt="image" src="https://github.com/user-attachments/assets/0bbde23c-ac0c-4421-8995-12c32bee0c78" />
 
-When
+Conditional expressions When
 
 <img width="637" height="359" alt="image" src="https://github.com/user-attachments/assets/4fcf7bff-260e-49d8-92ea-3485a4a27557" />
+
+Loops For
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/5e97073b-7847-45c8-92b0-e14c8690aaff" />
