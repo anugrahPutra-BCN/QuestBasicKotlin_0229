@@ -71,3 +71,8 @@ Access properties
 Member functions
 
 <img width="639" height="358" alt="image" src="https://github.com/user-attachments/assets/8ee491b0-f2f9-4e42-851a-e7da1a4cd973" />
+
+Data classes Print as string
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/ef5388d2-a448-481f-86b5-86f519e4f18f" />
+
