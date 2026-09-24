@@ -55,3 +55,7 @@ Functions without return
 Lambda expressions
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/23bcc0a4-0be6-429b-ba8a-215e770ced8d" />
+
+Class
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/9bcbc695-e10e-44b7-9b7e-1aedca1cfe2d" />
