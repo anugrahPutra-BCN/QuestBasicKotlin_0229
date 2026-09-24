@@ -19,3 +19,7 @@ List
 Set
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/8313549e-0800-46f1-8a4a-2786556105cb" />
+
+Map
+
+<img width="638" height="359" alt="image" src="https://github.com/user-attachments/assets/a0d0a602-7216-4aa0-8b1d-0b26e065acbb" />
