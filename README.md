@@ -51,3 +51,7 @@ Default parameter values
 Functions without return
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/eb4b1002-e0a9-44b8-a2c5-a3f490e4953d" />
+
+Lambda expressions
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/23bcc0a4-0be6-429b-ba8a-215e770ced8d" />
