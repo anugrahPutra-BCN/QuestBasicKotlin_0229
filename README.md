@@ -11,3 +11,7 @@ String templates
 TIPE DATA DASAR
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/b6f61235-627f-4397-a291-cedc341baebd" />
+
+List
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/fd1eb3f9-09b2-441b-8868-333344cecde4" />
