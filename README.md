@@ -67,3 +67,7 @@ Properties
 Access properties
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/d9e69590-bd86-4137-8180-2b1ddc7a046c" />
+
+Member functions
+
+<img width="639" height="358" alt="image" src="https://github.com/user-attachments/assets/8ee491b0-f2f9-4e42-851a-e7da1a4cd973" />
