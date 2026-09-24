@@ -47,3 +47,7 @@ Named arguments
 Default parameter values
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/98ea8632-a3d0-47f5-948d-3186bb23f84b" />
+
+Functions without return
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/eb4b1002-e0a9-44b8-a2c5-a3f490e4953d" />
