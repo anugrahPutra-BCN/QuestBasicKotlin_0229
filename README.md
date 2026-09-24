@@ -43,3 +43,7 @@ Functions
 Named arguments
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/cc9de4c1-3d62-4875-82d3-66ad8fcfb2c1" />
+
+Default parameter values
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/98ea8632-a3d0-47f5-948d-3186bb23f84b" />
