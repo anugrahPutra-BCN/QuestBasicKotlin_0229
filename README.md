@@ -15,3 +15,7 @@ TIPE DATA DASAR
 List
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/fd1eb3f9-09b2-441b-8868-333344cecde4" />
+
+Set
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/8313549e-0800-46f1-8a4a-2786556105cb" />
