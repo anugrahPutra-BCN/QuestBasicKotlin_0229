@@ -7,3 +7,7 @@ WHAT ?
 String templates
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/6335821e-543f-4136-9f71-80c2137f99fd" />
+
+TIPE DATA DASAR
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/b6f61235-627f-4397-a291-cedc341baebd" />
