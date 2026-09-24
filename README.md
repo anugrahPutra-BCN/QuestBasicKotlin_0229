@@ -79,3 +79,7 @@ Data classes Print as string
 Data classes Compare instances
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/54b15522-d4cb-4d2a-9d72-cf208d2915b1" />
+
+Data classes Copy instance
+
+<img width="635" height="351" alt="image" src="https://github.com/user-attachments/assets/45d19c91-1703-46e3-8df3-effe4c83cd85" />
