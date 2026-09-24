@@ -98,3 +98,7 @@ Check for null values
 Use safe calls
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/6baca690-a4cd-4520-ad91-83ca99773244" />
+
+Use Elvis operator
+
+<img width="637" height="355" alt="image" src="https://github.com/user-attachments/assets/4bf9993a-8651-4ee5-ad6d-4967a3e9eedd" />
