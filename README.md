@@ -83,3 +83,9 @@ Data classes Compare instances
 Data classes Copy instance
 
 <img width="635" height="351" alt="image" src="https://github.com/user-attachments/assets/45d19c91-1703-46e3-8df3-effe4c83cd85" />
+
+Null safety
+
+Nullable types
+
+<img width="640" height="357" alt="image" src="https://github.com/user-attachments/assets/1d66087a-3486-410a-843e-f433cb26b026" />
