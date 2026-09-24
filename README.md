@@ -84,8 +84,13 @@ Data classes Copy instance
 
 <img width="635" height="351" alt="image" src="https://github.com/user-attachments/assets/45d19c91-1703-46e3-8df3-effe4c83cd85" />
 
+
 Null safety
 
 Nullable types
 
 <img width="640" height="357" alt="image" src="https://github.com/user-attachments/assets/1d66087a-3486-410a-843e-f433cb26b026" />
+
+Check for null values
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/43c5b865-6a3f-4474-ad7f-2f8431c6c76d" />
