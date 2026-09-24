@@ -35,3 +35,7 @@ Conditional expressions When
 Loops For
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/5e97073b-7847-45c8-92b0-e14c8690aaff" />
+
+Functions
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/ac267f3a-4f18-4e5e-9d17-5411e3941ea6" />
