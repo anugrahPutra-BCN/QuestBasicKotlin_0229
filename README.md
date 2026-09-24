@@ -94,3 +94,7 @@ Nullable types
 Check for null values
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/43c5b865-6a3f-4474-ad7f-2f8431c6c76d" />
+
+Use safe calls
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/6baca690-a4cd-4520-ad91-83ca99773244" />
