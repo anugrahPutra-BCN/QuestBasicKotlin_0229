@@ -59,3 +59,8 @@ Lambda expressions
 Class
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/9bcbc695-e10e-44b7-9b7e-1aedca1cfe2d" />
+
+Properties
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/d1ffd58b-bd28-4d74-bb66-6db27bf4df75" />
+
