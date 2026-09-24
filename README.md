@@ -76,3 +76,6 @@ Data classes Print as string
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/ef5388d2-a448-481f-86b5-86f519e4f18f" />
 
+Data classes Compare instances
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/54b15522-d4cb-4d2a-9d72-cf208d2915b1" />
