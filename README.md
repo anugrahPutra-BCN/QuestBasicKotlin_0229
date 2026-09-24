@@ -39,3 +39,7 @@ Loops For
 Functions
 
 <img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/ac267f3a-4f18-4e5e-9d17-5411e3941ea6" />
+
+Named arguments
+
+<img width="640" height="359" alt="image" src="https://github.com/user-attachments/assets/cc9de4c1-3d62-4875-82d3-66ad8fcfb2c1" />
